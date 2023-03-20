@@ -1,0 +1,18 @@
+.vidocard{
+    width: 30vmax;
+    height:48vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-repeat: no-repeat;
+    background-size:cover;
+    margin: 0.5vmax;
+    cursor: pointer;
+}
+
+.vidocard>h5{
+    display: flex;
+    justify-content: center;
+    margin-top:13px;
+}

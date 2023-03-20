@@ -1,0 +1,40 @@
+.nav{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    background-color:white;
+    padding:0.4rem;
+
+}
+
+.nav>div{
+    padding:0 23px;
+}
+
+.second>.NavLinks{
+    padding:0 23px;
+    text-decoration:none;
+    
+
+
+}
+
+.NavLinks:hover{
+    color:black;
+    transition:0.3s all;
+}
+
+.searchIcon{
+    display: flex;
+}
+
+.searchIcon>input{
+    border:none;
+    border-bottom:1px solid grey;
+    outline:none;
+    font-size: 15px;
+}
+
+::placeholder{
+    font-size: 18px;
+}

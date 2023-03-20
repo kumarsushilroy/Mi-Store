@@ -1,0 +1,12 @@
+.menu{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.menu>.menu-link{
+    margin:0 24px;
+    text-decoration: none;
+    font-size: 1.2rem;
+}
