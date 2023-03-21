@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/Mi-Store/static/css/main.2670cec3.css",
-    "main.js": "/Mi-Store/static/js/main.0d7616ac.js",
-    "index.html": "/Mi-Store/index.html",
-    "main.2670cec3.css.map": "/Mi-Store/static/css/main.2670cec3.css.map",
-    "main.0d7616ac.js.map": "/Mi-Store/static/js/main.0d7616ac.js.map"
+    "main.css": "/Mi-Stores/static/css/main.2670cec3.css",
+    "main.js": "/Mi-Stores/static/js/main.0d7616ac.js",
+    "index.html": "/Mi-Stores/index.html",
+    "main.2670cec3.css.map": "/Mi-Stores/static/css/main.2670cec3.css.map",
+    "main.0d7616ac.js.map": "/Mi-Stores/static/js/main.0d7616ac.js.map"
   },
   "entrypoints": [
     "static/css/main.2670cec3.css",
