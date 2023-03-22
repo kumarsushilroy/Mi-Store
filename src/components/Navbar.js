@@ -20,6 +20,7 @@ function Navbar() {
     // const [srch , setsearch] = useState();
     // console.log(srch)
 
+
     const [toggle , settoggle] = useState(!false)
 
     return (
@@ -31,7 +32,10 @@ function Navbar() {
 
                     <div className="logo">
 
-                    <NavLink to={'/'}><img className='w-10' src={logo} alt="" /></NavLink> 
+                    <NavLink className='' to={'/'}>
+                        <span className='flex'><img  className='w-10' src={`${logo} `} alt="" /><h1 className='ml-2'>Home Page</h1></span>
+                        </NavLink> 
+                        
 
                     </div>
                     <div className='  lg:flex hidden'>
